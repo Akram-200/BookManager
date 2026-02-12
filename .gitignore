@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Logs
+*.log
